@@ -1,0 +1,17 @@
+/Users/Ivan/Desktop/Huki_iOS/Huki/obj/iPhoneSimulator/Release/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Ivan/Desktop/Huki_iOS/Huki/obj/iPhoneSimulator/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/Ivan/Desktop/Huki_iOS/Huki/obj/iPhoneSimulator/Release/actool/_PartialAppManifest.items
+/Users/Ivan/Desktop/Huki_iOS/Huki/obj/iPhoneSimulator/Release/actool/_BundleResourceWithLogicalName.items
+/Users/Ivan/Desktop/Huki_iOS/Huki/obj/iPhoneSimulator/Release/optimized/Imagenes/estadist.png
+/Users/Ivan/Desktop/Huki_iOS/Huki/obj/iPhoneSimulator/Release/optimized/Imagenes/historial.png
+/Users/Ivan/Desktop/Huki_iOS/Huki/obj/iPhoneSimulator/Release/optimized/Imagenes/player.png
+/Users/Ivan/Desktop/Huki_iOS/Huki/obj/iPhoneSimulator/Release/optimized/Imagenes/trofeo.png
+/Users/Ivan/Desktop/Huki_iOS/Huki/obj/iPhoneSimulator/Release/optimized/Imagenes/user.png
+/Users/Ivan/Desktop/Huki_iOS/Huki/obj/iPhoneSimulator/Release/optimized/Imagenes/Entrenadores.png
+/Users/Ivan/Desktop/Huki_iOS/Huki/obj/iPhoneSimulator/Release/optimized/
+/Users/Ivan/Desktop/Huki_iOS/Huki/bin/iPhoneSimulator/Release/Huki.exe.mdb
+/Users/Ivan/Desktop/Huki_iOS/Huki/bin/iPhoneSimulator/Release/Huki.exe
+/Users/Ivan/Desktop/Huki_iOS/Huki/obj/iPhoneSimulator/Release/Huki.exe
+/Users/Ivan/Desktop/Huki_iOS/Huki/obj/iPhoneSimulator/Release/Huki.exe.mdb
+/Users/Ivan/Desktop/Huki_iOS/Huki/bin/iPhoneSimulator/Release/SQLitePCL.raw.dll
+/Users/Ivan/Desktop/Huki_iOS/Huki/bin/iPhoneSimulator/Release/SQLite-net.dll

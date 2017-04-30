@@ -1,0 +1,118 @@
+objc[704]: Class VCWeakObjectHolder is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/PrivateFrameworks/GameKitServices.framework/Frameworks/ViceroyTrace.framework/ViceroyTrace (0x121317ca8) and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/PrivateFrameworks/GameKitServices.framework/Frameworks/AVConference.framework/AVConference (0x121249cd0). One of the two will be used. Which one is undefined.
+objc[704]: Class PLBuildVersion is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/PrivateFrameworks/AssetsLibraryServices.framework/AssetsLibraryServices (0x11f03ccc0) and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/PrivateFrameworks/PhotoLibraryServices.framework/PhotoLibraryServices (0x11ee536f0). One of the two will be used. Which one is undefined.
+2017-04-29 20:39:16.410 Huki[704:11390] Xamarin.iOS: Received unhandled ObjectiveC exception: NSGenericException Push segues can only be used when the source controller is managed by an instance of UINavigationController.
+2017-04-29 20:39:16.450 Huki[704:11390] 
+Unhandled Exception:
+Foundation.MonoTouchException: Objective-C exception thrown.  Name: NSGenericException Reason: Push segues can only be used when the source controller is managed by an instance of UINavigationController.
+Native stack trace:
+	0   CoreFoundation                      0x000000011366db0b __exceptionPreprocess + 171
+	1   libobjc.A.dylib                     0x0000000113cc6141 objc_exception_throw + 48
+	2   UIKit                               0x0000000109fb207b __copy_helper_block_ + 0
+	3   UIKit                               0x0000000109f0894c -[UIStoryboardSegueTemplate _performWithDestinationViewController:sender:] + 447
+	4   UIKit                               0x0000000109f0875c -[UIStoryboardSegueTemplate _perform:] + 82
+	5   UIKit                               0x0000000109f08a1f -[UIStoryboardSegueTemplate perform:] + 157
+	6   UIKit                               0x0000000109897d77 -[UITableView _selectRowAtIndexPath:animated:scrollPosition:notifyDelegate:] + 1677
+	7   UIKit                               0x0000000109897fe3 -[UITableView _userSelectRowAtPendingSelectionIndexPath:] + 344
+	8   UIKit                               0x000000010974d7f3 _runAfterCACommitDeferredBlocks + 318
+	9   UIKit                               0x000000010973a7bc _cleanUpAfterCAFlushAndRunDeferredBlocks + 532
+	10  UIKit                               0x000000010976c28c _afterCACommitHandler + 137
+	11  CoreFoundation                      0x0000000113613717 __CFRUNLOOP_IS_CALLING_OUT_TO_AN_OBSERVER_CALLBACK_FUNCTION__ + 23
+	12  CoreFoundation                      0x0000000113613687 __CFRunLoopDoObservers + 391
+	13  CoreFoundation                      0x00000001135f8720 __CFRunLoopRun + 1200
+	14  CoreFoundation                      0x00000001135f8016 CFRunLoopRunSpecific + 406
+	15  GraphicsServices                    0x00000001143b2a24 GSEventRunModal + 62
+	16  UIKit                               0x00000001097410d4 UIApplicationMain + 159
+	17  ???                                 0x0000000128fd89b5 0x0 + 4982671797
+	18  ???                                 0x0000000128fd8820 0x0 + 4982671392
+
+  at ObjCRuntime.Runtime.ThrowNSException (System.IntPtr ns_exception) [0x0000b] in <4692b8633c404c758160904e5dff77ed>:0 
+  at ObjCRuntime.Runtime.throw_ns_exception (System.IntPtr exc) [0x00000] in <4692b8633c404c758160904e5dff77ed>:0 
+  at (wrapper native-to-managed) ObjCRuntime.Runtime:throw_ns_exception (intptr)
+--- End of stack trace from previous location where exception was thrown ---
+  at (wrapper managed-to-native) UIKit.UIApplication:UIApplicationMain (int,string[],intptr,intptr)
+  at UIKit.UIApplication.Main (System.String[] args, System.IntPtr principal, System.IntPtr delegate) [0x00005] in <4692b8633c404c758160904e5dff77ed>:0 
+  at UIKit.UIApplication.Main (System.String[] args, System.String principalClassName, System.String delegateClassName) [0x00038] in <4692b8633c404c758160904e5dff77ed>:0 
+  at Huki.Application.Main (System.String[] args) [0x00000] in <cf28684562ec4c8bb5319a3f77aa79c8>:0 	0   CoreFoundation                      0x000000011366db0b __exceptionPreprocess + 171
+	1   libobjc.A.dylib                     0x0000000113cc6141 objc_exception_throw + 48
+	2   UIKit                               0x0000000109fb207b __copy_helper_block_ + 0
+	3   UIKit                               0x0000000109f0894c -[UIStoryboardSegueTemplate _performWithDestinationViewController:sender:] + 447
+	4   UIKit                               0x0000000109f0875c -[UIStoryboardSegueTemplate _perform:] + 82
+	5   UIKit                               0x0000000109f08a1f -[UIStoryboardSegueTemplate perform:] + 157
+	6   UIKit                               0x0000000109897d77 -[UITableView _selectRowAtIndexPath:animated:scrollPosition:notifyDelegate:] + 1677
+	7   UIKit                               0x0000000109897fe3 -[UITableView _userSelectRowAtPendingSelectionIndexPath:] + 344
+	8   UIKit                               0x000000010974d7f3 _runAfterCACommitDeferredBlocks + 318
+	9   UIKit                               0x000000010973a7bc _cleanUpAfterCAFlushAndRunDeferredBlocks + 532
+	10  UIKit                               0x000000010976c28c _afterCACommitHandler + 137
+	11  CoreFoundation                      0x0000000113613717 __CFRUNLOOP_IS_CALLING_OUT_TO_AN_OBSERVER_CALLBACK_FUNCTION__ + 23
+	12  CoreFoundation                      0x0000000113613687 __CFRunLoopDoObservers + 391
+	13  CoreFoundation                      0x00000001135f8720 __CFRunLoopRun + 1200
+	14  CoreFoundation                      0x00000001135f8016 CFRunLoopRunSpecific + 406
+	15  GraphicsServices                    0x00000001143b2a24 GSEventRunModal + 62
+	16  UIKit                               0x00000001097410d4 UIApplicationMain + 159
+	17  ???                                 0x0000000128fd89b5 0x0 + 4982671797
+	18  ???                                 0x0000000128fd8820 0x0 + 4982671392
+
+2017-04-29 20:39:16.451 Huki[704:11390] Unhandled managed exception:
+Objective-C exception thrown.  Name: NSGenericException Reason: Push segues can only be used when the source controller is managed by an instance of UINavigationController.
+Native stack trace:
+	0   CoreFoundation                      0x000000011366db0b __exceptionPreprocess + 171
+	1   libobjc.A.dylib                     0x0000000113cc6141 objc_exception_throw + 48
+	2   UIKit                               0x0000000109fb207b __copy_helper_block_ + 0
+	3   UIKit                               0x0000000109f0894c -[UIStoryboardSegueTemplate _performWithDestinationViewController:sender:] + 447
+	4   UIKit                               0x0000000109f0875c -[UIStoryboardSegueTemplate _perform:] + 82
+	5   UIKit                               0x0000000109f08a1f -[UIStoryboardSegueTemplate perform:] + 157
+	6   UIKit                               0x0000000109897d77 -[UITableView _selectRowAtIndexPath:animated:scrollPosition:notifyDelegate:] + 1677
+	7   UIKit                               0x0000000109897fe3 -[UITableView _userSelectRowAtPendingSelectionIndexPath:] + 344
+	8   UIKit                               0x000000010974d7f3 _runAfterCACommitDeferredBlocks + 318
+	9   UIKit                               0x000000010973a7bc _cleanUpAfterCAFlushAndRunDeferredBlocks + 532
+	10  UIKit                               0x000000010976c28c _afterCACommitHandler + 137
+	11  CoreFoundation                      0x0000000113613717 __CFRUNLOOP_IS_CALLING_OUT_TO_AN_OBSERVER_CALLBACK_FUNCTION__ + 23
+	12  CoreFoundation                      0x0000000113613687 __CFRunLoopDoObservers + 391
+	13  CoreFoundation                      0x00000001135f8720 __CFRunLoopRun + 1200
+	14  CoreFoundation                      0x00000001135f8016 CFRunLoopRunSpecific + 406
+	15  GraphicsServices                    0x00000001143b2a24 GSEventRunModal + 62
+	16  UIKit                               0x00000001097410d4 UIApplicationMain + 159
+	17  ???                                 0x0000000128fd89b5 0x0 + 4982671797
+	18  ???                                 0x0000000128fd8820 0x0 + 4982671392
+ (Foundation.MonoTouchException)
+  at ObjCRuntime.Runtime.ThrowNSException (System.IntPtr ns_exception) [0x0000b] in <4692b8633c404c758160904e5dff77ed>:0 
+  at ObjCRuntime.Runtime.throw_ns_exception (System.IntPtr exc) [0x00000] in <4692b8633c404c758160904e5dff77ed>:0 
+  at (wrapper native-to-managed) ObjCRuntime.Runtime:throw_ns_exception (intptr)
+--- End of stack trace from previous location where exception was thrown ---
+  at (wrapper managed-to-native) UIKit.UIApplication:UIApplicationMain (int,string[],intptr,intptr)
+  at UIKit.UIApplication.Main (System.String[] args, System.IntPtr principal, System.IntPtr delegate) [0x00005] in <4692b8633c404c758160904e5dff77ed>:0 
+  at UIKit.UIApplication.Main (System.String[] args, System.String principalClassName, System.String delegateClassName) [0x00038] in <4692b8633c404c758160904e5dff77ed>:0 
+  at Huki.Application.Main (System.String[] args) [0x00000] in <cf28684562ec4c8bb5319a3f77aa79c8>:0 
+2017-04-29 20:39:16.451 Huki[704:11390] critical: Stacktrace:
+
+2017-04-29 20:39:16.451 Huki[704:11390] critical: 
+Native stacktrace:
+
+2017-04-29 20:39:16.513 Huki[704:11390] critical: 	0   Huki                                0x000000010801945d mono_handle_native_sigsegv + 253
+2017-04-29 20:39:16.513 Huki[704:11390] critical: 	1   libsystem_platform.dylib            0x0000000114e74b3a _sigtramp + 26
+2017-04-29 20:39:16.513 Huki[704:11390] critical: 	2   ???                                 0x0000000108568574 0x0 + 4434855284
+2017-04-29 20:39:16.514 Huki[704:11390] critical: 	3   libsystem_c.dylib                   0x0000000114be388f abort + 127
+2017-04-29 20:39:16.514 Huki[704:11390] critical: 	4   Huki                                0x0000000108195b02 xamarin_unhandled_exception_handler + 34
+2017-04-29 20:39:16.514 Huki[704:11390] critical: 	5   Huki                                0x00000001080730a4 mono_invoke_unhandled_exception_hook + 148
+2017-04-29 20:39:16.514 Huki[704:11390] critical: 	6   Huki                                0x00000001080191c2 mono_handle_exception_internal + 4626
+2017-04-29 20:39:16.514 Huki[704:11390] critical: 	7   Huki                                0x0000000108017fa8 mono_handle_exception + 24
+2017-04-29 20:39:16.514 Huki[704:11390] critical: 	8   Huki                                0x0000000107f9532f mono_amd64_throw_exception + 143
+2017-04-29 20:39:16.515 Huki[704:11390] critical: 	9   ???                                 0x0000000126c7f9e7 0x0 + 4945607143
+2017-04-29 20:39:16.515 Huki[704:11390] critical: 	10  ???                                 0x00000001280e4ef3 0x0 + 4966993651
+2017-04-29 20:39:16.515 Huki[704:11390] critical: 	11  CoreFoundation                      0x00000001136d693f __handleUncaughtException + 751
+2017-04-29 20:39:16.515 Huki[704:11390] critical: 	12  libobjc.A.dylib                     0x0000000113cc63bb _ZL15_objc_terminatev + 94
+2017-04-29 20:39:16.515 Huki[704:11390] critical: 	13  libc++abi.dylib                     0x0000000114492f29 _ZSt11__terminatePFvvE + 8
+2017-04-29 20:39:16.515 Huki[704:11390] critical: 	14  libc++abi.dylib                     0x0000000114492bbe __cxa_rethrow + 99
+2017-04-29 20:39:16.516 Huki[704:11390] critical: 	15  libobjc.A.dylib                     0x0000000113cc62dc objc_exception_rethrow + 40
+2017-04-29 20:39:16.516 Huki[704:11390] critical: 	16  CoreFoundation                      0x00000001135f8096 CFRunLoopRunSpecific + 534
+2017-04-29 20:39:16.516 Huki[704:11390] critical: 	17  GraphicsServices                    0x00000001143b2a24 GSEventRunModal + 62
+2017-04-29 20:39:16.516 Huki[704:11390] critical: 	18  UIKit                               0x00000001097410d4 UIApplicationMain + 159
+2017-04-29 20:39:16.516 Huki[704:11390] critical: 	19  ???                                 0x0000000128fd89b5 0x0 + 4982671797
+2017-04-29 20:39:16.516 Huki[704:11390] critical: 	20  ???                                 0x0000000128fd8820 0x0 + 4982671392
+2017-04-29 20:39:16.537 Huki[704:11390] critical: 
+=================================================================
+Got a SIGABRT while executing native code. This usually indicates
+a fatal error in the mono runtime or one of the native libraries 
+used by your application.
+=================================================================
+

@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Huki", "Huki\Huki.csproj", "{60A03509-2954-4D4F-BFF5-3AC3839D6117}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60A03509-2954-4D4F-BFF5-3AC3839D6117}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{60A03509-2954-4D4F-BFF5-3AC3839D6117}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{60A03509-2954-4D4F-BFF5-3AC3839D6117}.Release|iPhone.ActiveCfg = Release|iPhone
+		{60A03509-2954-4D4F-BFF5-3AC3839D6117}.Release|iPhone.Build.0 = Release|iPhone
+		{60A03509-2954-4D4F-BFF5-3AC3839D6117}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{60A03509-2954-4D4F-BFF5-3AC3839D6117}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{60A03509-2954-4D4F-BFF5-3AC3839D6117}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{60A03509-2954-4D4F-BFF5-3AC3839D6117}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

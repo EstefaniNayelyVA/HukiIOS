@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{60A03509-2954-4D4F-BFF5-3AC3839D6117}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Huki/AppDelegate.cs">
+    <Files>
+      <File FileName="Huki/AppDelegate.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Huki PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C5EAF5A6-C5D0-4DAA-9379-60181BF3F4C1" />
+  <MultiItemStartupConfigurations />
+</Properties>

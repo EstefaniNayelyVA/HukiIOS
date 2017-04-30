@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool-link/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib">
+      <LogicalName>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool-link/LaunchScreen.storyboardc/Info.plist">
+      <LogicalName>LaunchScreen.storyboardc/Info.plist</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool-link/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib">
+      <LogicalName>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool-link/Main.storyboardc/8wL-kz-N0b-view-zXa-Q9-rmJ.nib">
+      <LogicalName>Main.storyboardc/8wL-kz-N0b-view-zXa-Q9-rmJ.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool-link/Main.storyboardc/Info.plist">
+      <LogicalName>Main.storyboardc/Info.plist</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool-link/Main.storyboardc/UCs-fN-8rS-view-mBN-dZ-AQo.nib">
+      <LogicalName>Main.storyboardc/UCs-fN-8rS-view-mBN-dZ-AQo.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool-link/Main.storyboardc/UITabBarController-49e-Tb-3d3.nib">
+      <LogicalName>Main.storyboardc/UITabBarController-49e-Tb-3d3.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool-link/Main.storyboardc/UITableViewController-UCs-fN-8rS.nib">
+      <LogicalName>Main.storyboardc/UITableViewController-UCs-fN-8rS.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool-link/Main.storyboardc/g7w-Nk-1XK-view-2Is-9r-nOf.nib">
+      <LogicalName>Main.storyboardc/g7w-Nk-1XK-view-2Is-9r-nOf.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool-link/Main.storyboardc/kkb-S0-6TS-view-y5r-2v-Sva.nib">
+      <LogicalName>Main.storyboardc/kkb-S0-6TS-view-y5r-2v-Sva.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Release/ibtool-link/Main.storyboardc/z3U-Rr-Sai-view-UUp-OM-AWp.nib">
+      <LogicalName>Main.storyboardc/z3U-Rr-Sai-view-UUp-OM-AWp.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+  </ItemGroup>
+</Project>

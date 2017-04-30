@@ -1,0 +1,17 @@
+/Users/Ivan/Desktop/Huki_iOS/Huki/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Ivan/Desktop/Huki_iOS/Huki/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/Ivan/Desktop/Huki_iOS/Huki/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_PartialAppManifest.items
+/Users/Ivan/Desktop/Huki_iOS/Huki/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/Ivan/Desktop/Huki_iOS/Huki/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/Imagenes/estadist.png
+/Users/Ivan/Desktop/Huki_iOS/Huki/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/Imagenes/historial.png
+/Users/Ivan/Desktop/Huki_iOS/Huki/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/Imagenes/player.png
+/Users/Ivan/Desktop/Huki_iOS/Huki/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/Imagenes/trofeo.png
+/Users/Ivan/Desktop/Huki_iOS/Huki/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/Imagenes/user.png
+/Users/Ivan/Desktop/Huki_iOS/Huki/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/Imagenes/Entrenadores.png
+/Users/Ivan/Desktop/Huki_iOS/Huki/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/
+/Users/Ivan/Desktop/Huki_iOS/Huki/bin/iPhoneSimulator/Debug/Huki.exe.mdb
+/Users/Ivan/Desktop/Huki_iOS/Huki/bin/iPhoneSimulator/Debug/Huki.exe
+/Users/Ivan/Desktop/Huki_iOS/Huki/obj/iPhoneSimulator/Debug/Huki.exe
+/Users/Ivan/Desktop/Huki_iOS/Huki/obj/iPhoneSimulator/Debug/Huki.exe.mdb
+/Users/Ivan/Desktop/Huki_iOS/Huki/bin/iPhoneSimulator/Debug/SQLitePCL.raw.dll
+/Users/Ivan/Desktop/Huki_iOS/Huki/bin/iPhoneSimulator/Debug/SQLite-net.dll
