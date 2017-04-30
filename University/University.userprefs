@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{B7510D14-378F-4C04-B373-900ACDF414AD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="University/Info.plist">
+    <Files>
+      <File FileName="University/AppDelegate.cs" Line="16" Column="8" />
+      <File FileName="University/TableViewController.cs" Line="32" Column="4" />
+      <File FileName="University/SecondViewController.cs" Line="18" Column="4" />
+      <File FileName="University/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.University PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BA015D43-22A4-44D1-BE44-371951FA2B2B" />
+</Properties>

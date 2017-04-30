@@ -1,0 +1,27 @@
+/Users/developer/Projects/University/University/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/developer/Projects/University/University/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/developer/Projects/University/University/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_PartialAppManifest.items
+/Users/developer/Projects/University/University/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/developer/Projects/University/University/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/
+/Users/developer/Projects/University/University/bin/iPhoneSimulator/Debug/University.exe.mdb
+/Users/developer/Projects/University/University/bin/iPhoneSimulator/Debug/University.exe
+/Users/developer/Projects/University/University/obj/iPhoneSimulator/Debug/University.exe
+/Users/developer/Projects/University/University/obj/iPhoneSimulator/Debug/University.exe.mdb
+/Users/developer/Desktop/University/University/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/developer/Desktop/University/University/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/developer/Desktop/University/University/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/
+/Users/developer/Desktop/University/University/bin/iPhoneSimulator/Debug/University.exe.mdb
+/Users/developer/Desktop/University/University/bin/iPhoneSimulator/Debug/University.exe
+/Users/developer/Desktop/University/University/obj/iPhoneSimulator/Debug/University.exe
+/Users/developer/Desktop/University/University/obj/iPhoneSimulator/Debug/University.exe.mdb
+/Users/developer/Desktop/University/University/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_PartialAppManifest.items
+/Users/developer/Desktop/University/University/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/estefanienva/Desktop/Archivos Rodrigo/University/University/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/estefanienva/Desktop/Archivos Rodrigo/University/University/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/estefanienva/Desktop/Archivos Rodrigo/University/University/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/estefanienva/Desktop/Archivos Rodrigo/University/University/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/estefanienva/Desktop/Archivos Rodrigo/University/University/obj/iPhoneSimulator/Debug/optimized/
+/Users/estefanienva/Desktop/Archivos Rodrigo/University/University/bin/iPhoneSimulator/Debug/University.exe.mdb
+/Users/estefanienva/Desktop/Archivos Rodrigo/University/University/bin/iPhoneSimulator/Debug/University.exe
+/Users/estefanienva/Desktop/Archivos Rodrigo/University/University/obj/iPhoneSimulator/Debug/University.exe
+/Users/estefanienva/Desktop/Archivos Rodrigo/University/University/obj/iPhoneSimulator/Debug/University.exe.mdb
